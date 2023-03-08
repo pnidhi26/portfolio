@@ -25,7 +25,7 @@ import circle from '../assets/circle.svg';
 
 import spotify from '../assets/spotify.png';
 
-export default {
+const data = {
   email,
   mobile,
   cpp,
@@ -50,3 +50,5 @@ export default {
   circle,
   spotify,
 };
+
+export default data
