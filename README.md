@@ -9,6 +9,7 @@ npm run dev
 
 create-react-app:
 npx create-react-app frontend
+npm start
 
 dependencies on frontend:
 npm install @sanity/client @sanity/image-url framer-motion node-sass react-icons
