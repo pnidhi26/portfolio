@@ -1,0 +1,17 @@
+{
+  "extends": "@sanity/eslint-config-studio",
+  "babel": {
+    "presets": [
+      [
+        "@babel/preset-env",
+        {
+          "modules": "commonjs",
+          "targets": {
+            "node": "current"
+          }
+        }
+      ]
+    ]
+  }
+}
+
