@@ -1,8 +1,8 @@
 # portfolio : Prakash Nidhi Verma
 
 Tech Used:
-React.js (Frontend)
-Sanity (backend)
+React.js (Frontend),
+Sanity (backend),
 Framer-motion (UI)
 
 
@@ -18,7 +18,7 @@ npx create-react-app frontend
 npm start
 
 # dependencies on frontend:
-npm install @sanity/client @sanity/image-url framer-motion node-sass react-icons
+npm install @sanity/client @sanity/image-url framer-motion node-sass react-icons,  
 npm install react-tooltip
 
 # connect sanity to frontend:
