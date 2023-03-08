@@ -19,11 +19,10 @@ npm start
 
 # dependencies on frontend:
 npm install @sanity/client @sanity/image-url framer-motion node-sass react-icons
+npm install react-tooltip
 
 # connect sanity to frontend:
 backend_sanity> sanity manage
-
-# npm install react-tooltip
 
 # Deployment:
 npm run build
