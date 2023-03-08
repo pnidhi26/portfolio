@@ -1,23 +1,30 @@
 # portfolio
 
-Sanity Installation:
+Tech Used:
+React.js (Frontend)
+Sanity (backend)
+Framer-motion (UI)
+
+
+# Sanity Installation:
 npm install -g @sanity/cli
 npm create sanity@latest -- --coupon javascriptmastery2022
 
-Run Sanity:
+# Run Sanity:
 npm run dev
 
-create-react-app:
+# create-react-app:
 npx create-react-app frontend
 npm start
 
-dependencies on frontend:
+# dependencies on frontend:
 npm install @sanity/client @sanity/image-url framer-motion node-sass react-icons
 
-connect sanity to frontend:
+# connect sanity to frontend:
 backend_sanity> sanity manage
 
-npm install react-tooltip
+# npm install react-tooltip
 
-Deployment:
+# Deployment:
 npm run build
+
