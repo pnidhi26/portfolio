@@ -4,7 +4,7 @@ import { BsInstagram, BsLinkedin, BsGithub, BsReverseLayoutTextSidebarReverse } 
 const SocialMedia = () => (
   <div className="app__social">
     <div>
-      <a rel="noreferrer" href='https://pnidhi26.github.io/findme/CV/resume-prakash.pdf' target="_blank">
+      <a rel="noreferrer" href='https://drive.google.com/drive/u/2/folders/16mu_S8RHeuHBM9pr9MhgegGPIuDWsQnW' target="_blank">
         <BsReverseLayoutTextSidebarReverse />
       </a>
     </div>
@@ -19,7 +19,7 @@ const SocialMedia = () => (
       </a>
     </div>
     <div>
-      <a rel="noreferrer" href='https://www.instagram.com/prakashx26/' target="_blank">
+      <a rel="noreferrer" href='https://www.instagram.com/prak.sx/' target="_blank">
         <BsInstagram />
       </a>
     </div>
