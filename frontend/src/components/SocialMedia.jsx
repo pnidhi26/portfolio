@@ -1,11 +1,12 @@
 import React from 'react';
-import { BsInstagram, BsLinkedin, BsGithub, BsReverseLayoutTextSidebarReverse } from 'react-icons/bs';
+import { BsInstagram, BsLinkedin, BsGithub } from 'react-icons/bs';
+import { GrDocumentUser } from 'react-icons/gr';
 
 const SocialMedia = () => (
   <div className="app__social">
     <div>
       <a rel="noreferrer" href='https://drive.google.com/drive/u/2/folders/16mu_S8RHeuHBM9pr9MhgegGPIuDWsQnW' target="_blank">
-        <BsReverseLayoutTextSidebarReverse />
+        <GrDocumentUser />
       </a>
     </div>
     <div>

@@ -37,7 +37,7 @@ const Footer = () => {
 
   return (
     <>
-      <h2 className="head-text">Grab a coffee & pick my mind</h2>
+      <h2 className="head-text">Have thoughts, Grab a coffee with me🥤</h2>
 
       <div className="app__footer-cards">
         <div className="app__footer-card ">
@@ -66,7 +66,7 @@ const Footer = () => {
               onChange={handleChangeInput}
             />
           </div>
-          <button type="button" className="p-text" onClick={handleSubmit}>{!loading ? 'Shoot your Message' : 'Shooting...'}</button>
+          <button type="button" className="p-text" onClick={handleSubmit}>{!loading ? 'Shoot your Message 🚀' : 'Shooting...'}</button>
         </div>
       ) : (
         <div>
