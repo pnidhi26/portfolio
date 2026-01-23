@@ -5,12 +5,12 @@ import { GrDocumentUser } from 'react-icons/gr';
 const SocialMedia = () => (
   <div className="app__social">
     <div>
-      <a rel="noreferrer" href='https://drive.google.com/drive/u/2/folders/16mu_S8RHeuHBM9pr9MhgegGPIuDWsQnW' target="_blank">
+      <a rel="noreferrer" href='' target="_blank">
         <GrDocumentUser />
       </a>
     </div>
     <div>
-      <a rel="noreferrer" href='https://www.linkedin.com/in/pnidhi26/' target="_blank">
+      <a rel="noreferrer" href='https://www.linkedin.com/in/' target="_blank">
         <BsLinkedin />
       </a>
     </div>
