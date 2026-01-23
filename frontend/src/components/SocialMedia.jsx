@@ -10,7 +10,7 @@ const SocialMedia = () => (
       </a>
     </div>
     <div>
-      <a rel="noreferrer" href='https://www.linkedin.com/in/' target="_blank">
+      <a rel="noreferrer" href='' target="_blank">
         <BsLinkedin />
       </a>
     </div>
@@ -20,7 +20,7 @@ const SocialMedia = () => (
       </a>
     </div>
     <div>
-      <a rel="noreferrer" href='https://www.instagram.com/prak.sx/' target="_blank">
+      <a rel="noreferrer" href='' target="_blank">
         <BsInstagram />
       </a>
     </div>
