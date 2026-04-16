@@ -1,16 +1,16 @@
 import React from 'react';
 import { BsInstagram, BsLinkedin, BsGithub } from 'react-icons/bs';
-import { GrDocumentUser } from 'react-icons/gr';
+// import { GrDocumentUser } from 'react-icons/gr';
 
 const SocialMedia = () => (
   <div className="app__social">
-    <div>
+    {/* <div>
       <a rel="noreferrer" href='' target="_blank">
         <GrDocumentUser />
       </a>
-    </div>
+    </div> */}
     <div>
-      <a rel="noreferrer" href='' target="_blank">
+      <a rel="noreferrer" href='https://www.linkedin.com/in/pnidhi26/' target="_blank">
         <BsLinkedin />
       </a>
     </div>
@@ -20,7 +20,7 @@ const SocialMedia = () => (
       </a>
     </div>
     <div>
-      <a rel="noreferrer" href='' target="_blank">
+      <a rel="noreferrer" href='https://www.instagram.com/siliconvalleyguy_/' target="_blank">
         <BsInstagram />
       </a>
     </div>
